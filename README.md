@@ -1,3 +1,5 @@
-### Hi there, I'm Jae 👋
+### Hi there 👋
 
-#### I'm currently building a blogging application with the Django framework. You can view my progress in the DjangoBlog repo :)
+#### Presently i'm building a blog application with the Django web framework. You can view my progression thus far in the 'DjangoBlog' repo. 
+
+#### I'm also writing a web browser automation script :) 
