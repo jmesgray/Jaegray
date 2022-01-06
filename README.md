@@ -6,5 +6,5 @@
 
 ##### My interests inlcude:
 * Full-Stack Development
+* Data Engineering
 * Data Analysis
-* Data Visualization
