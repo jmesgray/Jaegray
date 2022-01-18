@@ -2,7 +2,7 @@
 
 ##### Presently, i'm building a website which will serve as a blogging platform. My progression thus far can be seen in the 'django-blog' repo. I'm also building a data visualization tool with Tableau. 
 
-##### I mainly write code in Python. I've also written programs in R, for data analysis. I've recently picked up HTML and CSS, which i'm using to develop web applications.
+##### I primarily build programs with Python, for automation and data analysis. I pair this with HTML and CSS to build web applications, using the Django framework. I've also built programs with R for analyzing datasets. 
 
 ##### My interests inlcude:
 * Full-Stack Development
