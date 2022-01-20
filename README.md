@@ -6,4 +6,5 @@
 
 ##### My interests inlcude:
 * Full-Stack Development
+* Automation
 * Data Analysis & Visualization
