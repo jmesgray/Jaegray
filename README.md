@@ -5,4 +5,4 @@
 ##### Interests:
 * Full-Stack Development
 * Automation
-* Data Analysis & Visualization
+* Data Analysis
