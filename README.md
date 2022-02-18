@@ -1,6 +1,6 @@
-##### Primary Languages Used: Python
+##### Primary Languages: R, Python
 ##### Frameworks: Django
-##### Others: R, HTML, CSS 
+##### Others: HTML, CSS 
 
 ##### Interests:
 * Full-Stack Development
