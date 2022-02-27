@@ -4,4 +4,5 @@
 
 ##### Interests:
 * Full-Stack Development
+* Test Automation
 * Data & Statistical Analysis
